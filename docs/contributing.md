@@ -54,7 +54,7 @@ The recommended development environment is Linux or Mac. If you're on Windows yo
 
 You will need the following dependencies installed in order to get started:
 
-* [Terraform](https://www.terraform.io/downloads.html) version 0.11.x +
+* [Terraform](https://www.terraform.io/downloads.html) version 0.12.x +
 * [Go](https://golang.org/doc/install) version 1.12.x +
 * An editor of your choice. We recommend [Visual Studio Code](https://code.visualstudio.com/Download) but any editor will do.
 
